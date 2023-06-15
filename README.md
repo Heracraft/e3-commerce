@@ -147,6 +147,11 @@ $  python3 manage.py createsuperuser
 ```
 Then Add Email, Username and Password
 
+**8. Set up tailwind css**
+```
+npm install -D tailwindcss
+npx tailwindcss init
+```
 
 
 ## For Sponsor or Projects Enquiry
